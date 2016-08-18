@@ -18,7 +18,7 @@ namespace USB_auth
         {
             string Host = ""; //Hostname
             int Port = 22; //SFTP Port number
-            String RemoteFileName = "/var/www/pass/passwd.kdbx"; //Full path to password database on remote server. Make sure the file is named passwd.kdbx. If you want to change this edit the code below
+            String RemoteFileName = "/var/www/pass/passwd.kdbx"; //Full path to password database on remote server.
             string dir = Path.Combine(Environment.GetFolderPath(Environment.SpecialFolder.ApplicationData),"passwd\\"); //Directory password database will be stored in on local computer. I recommend leaving this alone unless you know what you're doing!
             String Username = ""; //Username. Setting password can be done further down. If password is already set just press enter when it prompts for password.
             if (!Directory.Exists(dir))
