@@ -1,0 +1,9 @@
+c:\users\henrik\documents\visual studio 2015\Projects\USB auth\USB auth\bin\Debug\USB auth.exe.config
+C:\Users\Henrik\documents\visual studio 2015\Projects\USB auth\USB auth\bin\Debug\USB auth.exe
+C:\Users\Henrik\documents\visual studio 2015\Projects\USB auth\USB auth\bin\Debug\USB auth.pdb
+C:\Users\Henrik\documents\visual studio 2015\Projects\USB auth\USB auth\bin\Debug\Renci.SshNet.dll
+C:\Users\Henrik\documents\visual studio 2015\Projects\USB auth\USB auth\bin\Debug\Renci.SshNet.pdb
+C:\Users\Henrik\documents\visual studio 2015\Projects\USB auth\USB auth\bin\Debug\Renci.SshNet.xml
+C:\Users\Henrik\documents\visual studio 2015\Projects\USB auth\USB auth\obj\Debug\USB auth.exe
+C:\Users\Henrik\documents\visual studio 2015\Projects\USB auth\USB auth\obj\Debug\USB auth.pdb
+C:\Users\Henrik\Documents\Visual Studio 2015\Projects\USB auth\USB auth\obj\Debug\USB auth.csprojResolveAssemblyReference.cache
